@@ -43,11 +43,15 @@ body, html{
 }
 .relleno{
     height: 25%;
-    padding: 20px;
+    padding: 20px 10%;
+    font-family: Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px grey;
+    
 }
 
 .relleno.amayellow{
-    background-color: rgb(255, 251, 0);
+    background-color: rgb(221, 219, 92);
 }
 .relleno.cyan{
     background-color: rgb(0, 217, 255);
